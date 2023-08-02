@@ -11,8 +11,6 @@ Sometimes I like to relax with a beer, especially after a long day at the comput
 
 My main goal is to become a full-stack developer, and I work at it every day.
 
-Recently I started to get interested in the topic of web3 and have already started to explore this direction.
-
 I will be happy to share my work in this area with you in the future on this page:D
 
 <!-- ## 🛠️ My stack
