@@ -6,13 +6,6 @@ I am a frontend developer with a focus on semantics and website accessibility.
 I'm convinced that everyone should have equal access to information on the web,
 so I try to create websites that are as user-friendly as possible for everyone.
 
-I also love playing guitar and bass guitar, especially metal music.
-Sometimes I like to relax with a beer, especially after a long day at the computer.
-
-My main goal is to become a full-stack developer, and I work at it every day.
-
-I will be happy to share my work in this area with you in the future on this page:D
-
 <!-- ## 🛠️ My stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
