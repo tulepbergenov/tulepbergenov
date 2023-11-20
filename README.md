@@ -1,6 +1,6 @@
 👋 Hi, my name is
 
-### Daulet Tulepbergenov
+## Daulet Tulepbergenov
 
 fs dev | web3 (Ethereum, TON)
 
