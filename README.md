@@ -1,10 +1,8 @@
 👋 Hi, my name is
 
-# Daulet Tulepbergenov
+### Daulet Tulepbergenov
 
-I am a frontend developer with a focus on semantics and website accessibility.
-I'm convinced that everyone should have equal access to information on the web,
-so I try to create websites that are as user-friendly as possible for everyone.
+fs dev | web3 (Ethereum, TON)
 
 <!-- ## 🛠️ My stack
 
