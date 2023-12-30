@@ -2,7 +2,7 @@
 
 ## Daulet Tulepbergenov
 
-fs dev | web3 (Ethereum, TON)
+Software Engineer
 
 <!-- ## 🛠️ My stack
 
