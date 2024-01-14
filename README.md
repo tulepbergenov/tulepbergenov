@@ -1,7 +1,3 @@
-👋 Hi, my name is
-
-## Daulet Tulepbergenov
-
 Software Engineer
 
 <!-- ## 🛠️ My stack
